@@ -36,6 +36,8 @@ hisql是一款开源数据库防火墙，支持MySQL、MariaDB、Oracle、Postgr
 
 开源版本仅支持MySQL，商业版才有WEB管理，核心基于更高性能的语义分析和机器学习引擎，也可以开源，演示地址 [http://101.42.31.94/dbpages/](http://101.42.31.94/dbpages/)
 
+更多产品演示[http://101.42.31.94:9998/prochtml/open_source.html](http://101.42.31.94:9998/prochtml/open_source.html)
+
 #### 五、源码部署请加微信号httpwaf
 
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
