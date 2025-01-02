@@ -1,7 +1,7 @@
 # hisql
 
 #### 一 、介绍
-hisql是一款开源数据库防火墙，支持MySQL、MariaDB、Oracle、PostgreSQL等。
+hisql是一款开源数据库防火墙，支持MySQL、MariaDB、PostgreSQL、国产数据库等。
 
 #### 二 、两种安装架构
 ##### 1、直接安装在数据库服务器上
