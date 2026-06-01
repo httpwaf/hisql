@@ -38,7 +38,8 @@ hisql是一款开源数据库防火墙，支持MSSQL、MySQL、MariaDB、Postgre
 
 基于SQL Sever的产品下载[http://39.106.251.213/sqlserver.tar.gz](http://39.106.251.213/sqlserver.tar.gz)
 
-#### 五、源码部署请加微信号httpwaf
+#### 五、源码解压密码请加微信号httpwaf
+pdf技术白皮书内有源码下载地址 [http://39.106.251.213:9998/firewall.pdf](http://39.106.251.213:9998/firewall.pdf)
 
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
 
